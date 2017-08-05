@@ -1,0 +1,2 @@
+# phpcms_authkey_scan
+批量检测phpmcs authkey泄露导致的sql注入
